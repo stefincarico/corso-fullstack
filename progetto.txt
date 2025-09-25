@@ -1,1 +1,2 @@
 Versione iniziale del progetto
+Aggiunta una nuova funzionalità.
